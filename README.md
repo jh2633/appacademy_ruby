@@ -1,3 +1,7 @@
+This is to track the changes I've done in this RSpec exercise from App Academy. Originally pulled from App Academy's Repo
+
+
+
 # Learn Ruby Test-First
 
 ## Setup
