@@ -8,5 +8,11 @@ x - y
 end
 
 def sum(array)
-array.
+sum = 0
+array.each {|x| sum += x}
+sum
+end
+
+def multiply(x, y)
+  x * y
 end
